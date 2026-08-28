@@ -1,0 +1,230 @@
+{
+  "programs": [
+    {
+      "id": "program-seed-it",
+      "slug": "information-technology",
+      "title": "Information Technology",
+      "shortTitle": "Information Technology",
+      "category": "Digital & Computing",
+      "tagline": "Brighter Digital Future",
+      "description": "From computer repair to web development, the Information Technology program gives students the practical skills employers need — working in a fully equipped lab under experienced instructors.",
+      "duration": "2 Years Diploma & 3 Years Higher Diploma",
+      "format": "Full-Time · Practical Labs",
+      "image": "/uploads/programs/it-cover.jpg",
+      "gallery": [
+        { "src": "/uploads/programs/it-1.jpg", "caption": "Students in the computer lab" },
+        { "src": "/uploads/programs/it-2.jpg", "caption": "Hands-on IT training" },
+        { "src": "/uploads/programs/it-3.jpg", "caption": "Practical computing session" }
+      ],
+      "whatYouLearn": [
+        "Computer Assembly & Repair",
+        "LAN/WAN Configuration & Network Security Basics",
+        "Server Management",
+        "Web Development (HTML, CSS, JavaScript)",
+        "Database Management (SQL)",
+        "Cybersecurity Fundamentals",
+        "Office Productivity Software Suite",
+        "Digital Media: Content Formats, Video Editing, Graphics"
+      ],
+      "practicalTraining": "Students train in a fully equipped computer lab using industry-standard software and hardware, working directly on real computer assembly, networking, and web development tasks alongside certified instructors.",
+      "careerPaths": [
+        "Computer Technician",
+        "IT Support Specialist",
+        "Junior Web Developer",
+        "Network Administrator Assistant"
+      ]
+    },
+    {
+      "id": "program-seed-carpentry",
+      "slug": "construction-carpentry",
+      "title": "Construction & Carpentry",
+      "shortTitle": "Construction & Carpentry",
+      "category": "Building & Trades",
+      "tagline": "Build a Better Tomorrow",
+      "description": "From residential carpentry to large-scale construction, this program builds practical skills and safety knowledge for the building industry through intensive, hands-on workshop training.",
+      "duration": "2 Years Diploma & 3 Years Higher Diploma",
+      "format": "Intensive Workshop",
+      "image": "/uploads/programs/carpentry-cover.jpg",
+      "gallery": [
+        { "src": "/uploads/programs/carpentry-1.jpg", "caption": "Workshop timber and materials" },
+        { "src": "/uploads/programs/carpentry-2.jpg", "caption": "Carpentry tools and equipment" },
+        { "src": "/uploads/programs/carpentry-3.jpg", "caption": "Practical construction training" }
+      ],
+      "whatYouLearn": [
+        "Hand Saws, Chisels & Planes",
+        "Furniture Making",
+        "Cabinet & Door Fitting",
+        "Timber Framing",
+        "Foundation Laying, Brickwork & Masonry",
+        "Roofing, Scaffolding & Blueprint Reading",
+        "Basic Welding & Metalwork",
+        "PPE & Site Safety, Power Tool Operation"
+      ],
+      "practicalTraining": "Training takes place in a fully equipped workshop covering hand tools, power drills and circular saws, measuring and levelling instruments, and basic welding equipment — always with an emphasis on safety gear (PPE) and site practice.",
+      "careerPaths": [
+        "Residential Carpenter",
+        "Construction Site Foreman",
+        "Furniture Maker",
+        "Self-Employed Contractor"
+      ]
+    },
+    {
+      "id": "program-seed-mechanical",
+      "slug": "mechanical-auto",
+      "title": "Mechanical & Auto Engineering",
+      "shortTitle": "Mechanical & Auto",
+      "category": "Engineering & Motors",
+      "tagline": "Drive a Powerful Future",
+      "description": "From engine repair to full vehicle diagnostics, this program gives students hands-on technical skills to work in auto shops, factories, and mechanical workshops.",
+      "duration": "2 Years Diploma & 3 Years Higher Diploma",
+      "format": "Includes Workshop Intensive",
+      "image": "/uploads/programs/mechanical-cover.jpg",
+      "gallery": [
+        { "src": "/uploads/programs/mechanical-1.jpg", "caption": "Engine diagnostics and repair" },
+        { "src": "/uploads/programs/mechanical-2.webp", "caption": "Auto-bay workshop training" },
+        { "src": "/uploads/programs/mechanical-3.webp", "caption": "Hands-on mechanical work" }
+      ],
+      "whatYouLearn": [
+        "Engine Diagnostics & Repair",
+        "Transmission & Drivetrain Systems",
+        "Fuel & Cooling Systems, Exhaust & Emissions",
+        "Automotive Electrical Systems",
+        "Battery & Alternator Repair",
+        "Welding & Metal Fabrication",
+        "Hydraulic Lift & Diagnostic Computer Operation",
+        "General Machine Maintenance"
+      ],
+      "practicalTraining": "Students work in a fully equipped auto-bay with hydraulic lifts and diagnostic computers for modern vehicles, with a hands-on ratio of roughly 60% practical work to 40% theory.",
+      "careerPaths": [
+        "Auto Mechanic",
+        "Engine Diagnostics Technician",
+        "Workshop Machine Operator",
+        "Self-Employed Auto Workshop Owner"
+      ]
+    },
+    {
+      "id": "program-seed-agro",
+      "slug": "agro-processing",
+      "title": "Agro-Processing",
+      "shortTitle": "Agro-Processing",
+      "category": "Agriculture & Enterprise",
+      "tagline": "Nourish a Better Tomorrow",
+      "description": "From cashew processing to modern preservation techniques, this program gives students the practical skills to turn raw agricultural produce into profitable, market-ready products.",
+      "duration": "2 Years Diploma & 3 Years Higher Diploma",
+      "format": "Accelerated · Enterprise Focus",
+      "image": "/uploads/programs/agro-cover.jpg",
+      "gallery": [{ "src": "/uploads/programs/agro-cover.jpg", "caption": "Agro-processing training" }],
+      "whatYouLearn": [
+        "Cashew & Groundnut Processing",
+        "Food Drying, Canning & Preservation Techniques",
+        "Packaging & Labeling",
+        "Modern Farming Techniques",
+        "Crop Selection & Harvesting",
+        "Quality Control, Hygiene & Food Safety Standards",
+        "Small Business Management",
+        "Supply Chain Basics, Marketing & Financial Planning"
+      ],
+      "practicalTraining": "Training is centered on a processing and packaging facility where students handle real food preservation, quality control, and agri-business workflows from raw produce through to a market-ready product.",
+      "careerPaths": ["Food Production Assistant", "Agri-Business Start-up Owner", "Farm Operations Manager"]
+    }
+  ],
+  "news": [
+    {
+      "id": "news-seed-admission-2026",
+      "slug": "2026-2027-admission-open",
+      "category": "Admission",
+      "date": "August 15, 2026",
+      "title": "2026/2027 Admission Now Open",
+      "excerpt": "Applications are now being accepted for the college's technical and vocational programs.",
+      "body": [
+        "Applications are now being accepted for Stein & Steinmetz College for TVET's technical and vocational programs for the 2026/2027 intake.",
+        "Prospective students can choose from Information Technology, Construction & Carpentry, Mechanical & Auto Engineering, and Agricultural Processing.",
+        "Complete the application/inquiry form on the Admissions page or contact the college directly to begin the process."
+      ]
+    },
+    {
+      "id": "news-seed-graduation-2026",
+      "slug": "4th-annual-graduation-ceremony",
+      "category": "Graduation",
+      "date": "December 10, 2026",
+      "title": "4th Annual Graduation Ceremony",
+      "excerpt": "Join the college community in celebrating the achievements of the 2026 cohort.",
+      "body": [
+        "The college community will gather to celebrate the achievements of the 2026 graduating cohort at the 4th Annual Graduation Ceremony.",
+        "Family, partners, and members of the public are welcome to attend and celebrate the students' technical and vocational achievements.",
+        "Contact the college for details on timing and location, or to RSVP."
+      ]
+    },
+    {
+      "id": "news-seed-solar-workshop",
+      "slug": "intro-solar-panel-installation-workshop",
+      "category": "Workshop",
+      "date": "September 5, 2026",
+      "title": "Intro to Solar Panel Installation",
+      "excerpt": "Open to students interested in learning fundamentals of renewable energy and off-grid installation.",
+      "body": [
+        "This workshop is open to students interested in learning the fundamentals of renewable energy and off-grid solar installation.",
+        "The session introduces core concepts that complement the college's technical programs and practical training approach.",
+        "Register your interest through the contact form to receive more details as they become available."
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-seed-mohamed-kamara",
+      "name": "Mohamed Kamara",
+      "image": "/uploads/students/member-1.png",
+      "program": "Information Technology (2023)",
+      "role": "Computer Technician, Pujehun Town",
+      "quote": "After studying IT at SSCTVET, I got a job as a computer technician right here in Pujehun. The practical skills I learned gave me confidence."
+    },
+    {
+      "id": "testimonial-seed-jenneh-samba",
+      "name": "Jenneh Samba",
+      "image": "/uploads/students/member-2.png",
+      "program": "Agro-Processing (2022)",
+      "role": "Food Production Manager, Local Agri-Business",
+      "quote": "I started my own small business processing local cashews after graduating. The college showed me how to turn farming into a profitable industry."
+    },
+    {
+      "id": "testimonial-seed-alusine-bangura",
+      "name": "Alusine Bangura",
+      "image": "/uploads/students/member-3.png",
+      "program": "Mechanical & Auto Engineering (2023)",
+      "role": "Lead Mechanic, Bo City Workshop",
+      "quote": "I came to SSC for TVET with zero knowledge of cars. Within 12 months, I mastered engine repair and now run my own workshop."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What programs does SSC for TVET offer?",
+      "answer": "The college currently offers Information Technology, Construction & Carpentry, Mechanical & Auto Engineering, and Agro-Processing."
+    },
+    {
+      "question": "How do I apply?",
+      "answer": "Use the application form on the Admissions page, select your course of interest, provide your contact information, and submit your inquiry/application. The college will then follow up with next steps."
+    },
+    {
+      "question": "Where is the college located?",
+      "answer": "The college is located at Mando Farm off Gbondapi Road, Pujehun Town, Pujehun District, Sierra Leone."
+    },
+    {
+      "question": "How long do the programs take?",
+      "answer": "Program duration varies from 6 months to 2 years or 3 years, depending on the certificate or diploma you are applying for."
+    },
+    {
+      "question": "How can I contact the college?",
+      "answer": "Call +232 80 377 218 or +232 78 268 000, email senesiefoday0@gmail.com, or use the application/inquiry form."
+    }
+  ],
+  "settings": {
+    "address": "Mando Farm Off Gbondapi Road, Pujehun",
+    "phonePrimary": "+232 80 377 218",
+    "phoneSecondary": "+232 78 268 000",
+    "email": "senesiefoday0@gmail.com",
+    "whatsappNumber": "23280377218",
+    "heroEyebrow": "Stein & Steinmetz College for TVET",
+    "heroTitle": "Building Skills. Creating Opportunities. Transforming Futures.",
+    "heroSubtitle": "Located at Mando Farm, Pujehun, our college prepares young people with practical technical and vocational skills, confidence, and career-focused knowledge for real opportunities in Sierra Leone."
+  }
+}
