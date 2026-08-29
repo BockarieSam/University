@@ -8,13 +8,18 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: process.env.VITE_BASE_PATH || "/University",
+
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
     },
   },
+
   server: {
+    allowedHosts: [
+      '.trycloudflare.com',
+    ],
+
     proxy: {
       '/api': 'http://localhost:4000',
       '/uploads': 'http://localhost:4000',
